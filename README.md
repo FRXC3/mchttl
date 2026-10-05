@@ -3,8 +3,7 @@
 # What is mchttl?
 mchttl is an advanced non-profit(Vibe coded) calculator project, features following type of calculations:
 Player:
-god mode
-
+god mode\n
 inf skill
 
 inf burst 
