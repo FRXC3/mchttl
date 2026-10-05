@@ -1,5 +1,7 @@
 # What is mchttl?
-Join [Discord](https://discord.gg/4jFQH6MRGg)
+
+Join [Discord](https://discord.gg/4jFQH6MRGg) to find out.
+
 mchttl is an advanced non-profit (vibe-coded) calculator project,
 featuring the following calculation types:
 
