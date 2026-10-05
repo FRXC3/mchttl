@@ -22,4 +22,4 @@ fov unlock
 esp(Types)
 
 
-join (discord)[https://discord.gg/4jFQH6MRGg]
+join [discord](https://discord.gg/4jFQH6MRGg)
