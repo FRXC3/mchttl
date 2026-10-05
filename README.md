@@ -1,33 +1,26 @@
-
-
 # What is mchttl?
-mchttl is an advanced non-profit(Vibe coded) calculator project, features following type of calculations:
 
-Player:
-god mode
-inf skill
+mchttl is an advanced non-profit (vibe-coded) calculator project featuring the following calculation types:
 
-inf burst 
+### Player
+- God mode
+- Inf skill
+- Inf burst
+- Sprint CD
 
-sprint cd
+### World
+- Auto dialog (max speed 1.5)
+- Auto pickup
 
+### Teleport
+- Custom teleport route
+- Nearest chest TP
 
-World:
-auto dialog - max speed 1.5
+### Visuals
+- FPS unlock
+- FOV unlock
+- ESP (Types)
 
-auto pickup
+---
 
-Teleport:
-custom teleport route
-
-nearest chest tp
-
-Visuals:
-fps unlock
-
-fov unlock
-
-esp(Types)
-
-
-join [discord](https://discord.gg/4jFQH6MRGg)
+Join [Discord](https://discord.gg/4jFQH6MRGg)
