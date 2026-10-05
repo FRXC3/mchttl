@@ -21,6 +21,4 @@ mchttl is an advanced non-profit (vibe-coded) calculator project featuring the f
 - FOV unlock
 - ESP (Types)
 
----
-
 Join [Discord](https://discord.gg/4jFQH6MRGg)
