@@ -1,6 +1,7 @@
 # What is mchttl?
-
-mchttl is an advanced non-profit (vibe-coded) calculator project featuring the following calculation types:
+Join [Discord](https://discord.gg/4jFQH6MRGg)
+mchttl is an advanced non-profit (vibe-coded) calculator project,
+featuring the following calculation types:
 
 ### Player
 - God mode
@@ -21,4 +22,4 @@ mchttl is an advanced non-profit (vibe-coded) calculator project featuring the f
 - FOV unlock
 - ESP (Types)
 
-Join [Discord](https://discord.gg/4jFQH6MRGg)
+
