@@ -1,4 +1,4 @@
-# mchttl
+
 
 # What is mchttl?
 mchttl is an advanced non-profit(Vibe coded) calculator project, features following type of calculations:
@@ -20,3 +20,6 @@ Visuals:
 fps unlock
 fov unlock
 esp(Types)
+
+
+join (discord)[https://discord.gg/4jFQH6MRGg]
