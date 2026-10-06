@@ -1,5 +1,6 @@
 # What is mchttl?
 
+Something intel specific
 [Discord](https://discord.gg/4jFQH6MRGg)
 
 mchttl is an advanced non-profit (vibe-coded) calculator project,
