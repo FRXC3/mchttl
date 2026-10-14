@@ -1,7 +1,7 @@
 # What is mchttl?
 GENSHIN IMPACT CHEETO
 
-Something intel specific
+CHECK
 [Discord](https://discord.gg/4jFQH6MRGg)
 
 mchttl is an advanced non-profit (vibe-coded) calculator project,
